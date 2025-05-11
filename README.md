@@ -21,8 +21,6 @@ Hi there! I'm Debehaa J, a passionate software developer with experience in back
 ## 🛠️ Technical Skills
 
 <p align="center">
- ## 🛠️ Technical Skills
-
 ### 👩‍💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -52,6 +50,7 @@ Hi there! I'm Debehaa J, a passionate software developer with experience in back
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 </p>
 
 ---
