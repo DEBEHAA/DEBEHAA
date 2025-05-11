@@ -1,7 +1,7 @@
 # 👩‍💻 Debehaa J
 
 **Software Developer** | Focused on Backend & Full Stack Development  
-📧 debejaga2004@gmail.com | 📞 +91 9842027519  
+📧 debejaga2004@gmail.com 
 🌐 [GitHub](https://github.com/DEBEHAA) | [LinkedIn](https://www.linkedin.com/in/debehaa-jagadeesan-95b56a259) | [Leetcode](https://leetcode.com/u/22CSR037_debehaa/)
 
 ---
