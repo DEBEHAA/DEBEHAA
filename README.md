@@ -20,8 +20,9 @@ Hi there! I'm Debehaa J, a passionate software developer with experience in back
 
 ## 🛠️ Technical Skills
 
-### 👩‍💻 Programming Languages  
 <p align="center">
+### 👩‍💻 Programming Languages  
+
  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
